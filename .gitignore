@@ -18,4 +18,4 @@ yarn-error.log*
 # images
 /public/img
 
-/.gitignore
+.gitignore
